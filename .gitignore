@@ -131,3 +131,4 @@ dmypy.json
 #IDEs
 .idea
 .DS_Store
+notebooks/.ipynb_checkpoints
